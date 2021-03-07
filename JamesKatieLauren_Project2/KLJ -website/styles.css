@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+	padding: 0;
+	margin: 0;
+	bottom: 0; 
+}
+
+#container {
+	position: absolute;
+	margin: 0;
+}
+.dogA {
+	position: absolute;
+  left: 279px;
+  top: 439px;
+	
+}
+
+.main {
+	width:100%;
+	height: auto;
+		
+}
